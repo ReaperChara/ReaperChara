@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/matrix_reaper.gif" width="440" alt="matrix rain" />
+  <img src="./matrix_reaper.gif" width="440" alt="matrix rain" />
 </p>
 
 ---
