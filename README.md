@@ -3,11 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=00FF9F&center=true&vCenter=true&width=620&lines=Security+Researcher+%7C+Ethical+Hacker;Computer+Engineer;Game+%26+App+Developer;C%23+%C2%B7+Python+%C2%B7+Android" alt="typing" />
-</p>
-
-<p align="center">
-  <img src="./matrix_reaper.gif" width="440" alt="matrix rain" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=00FF9F&center=true&vCenter=true&width=620&lines=Security+Researcher+%7C+Ethical+Hacker;Computer+Engineer;Game+%26+App+Developer;C%23+%C2%B7+Python+%C2%B7+Linux" alt="typing" />
 </p>
 
 ---
@@ -33,12 +29,11 @@
 ### &#x2699;&#xFE0F; Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=csharp,python,androidstudio,git,github,vscode,linux,figma" />
+  <img src="https://skillicons.dev/icons?i=csharp,python,git,github,vscode,linux,figma" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
